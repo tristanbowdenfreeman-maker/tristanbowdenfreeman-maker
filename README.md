@@ -1,6 +1,6 @@
 <p>
   <a href="https://tristanbowdenfreeman-maker.github.io/tiny-summit/">
-    <img src="media/banner.svg" width="1200" alt="Hi, I'm Tristan. Data analyst. SQL, Python, Power BI, BigQuery and Excel." />
+    <img src="media/banner.svg" width="1200" alt="Hi, I'm Tristan. Analyst. SQL, Python, Power BI, BigQuery and Excel." />
   </a>
 </p>
 
